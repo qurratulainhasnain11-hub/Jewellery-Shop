@@ -1,0 +1,35 @@
+.notfound-container {
+  text-align: center;
+  padding: 100px 20px;
+  font-family: "Playfair Display", serif;
+  color: #333;
+}
+
+.notfound-container h1 {
+  font-size: 6rem;
+  color: gold;
+}
+
+.notfound-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.notfound-container p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.home-link {
+  text-decoration: none;
+  background-color: gold;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.home-link:hover {
+  background-color: darkgoldenrod;
+}

@@ -1,0 +1,46 @@
+.home {
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
+.banner {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: #fff;
+}
+
+.banner h1 {
+  font-size: 3rem;
+  letter-spacing: 1px;
+}
+
+.banner p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+section {
+  padding: 2rem;
+  text-align: center;
+}
+
+section h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
+  background: #111;
+  color: #fff;
+  font-size: 0.9rem;
+}
