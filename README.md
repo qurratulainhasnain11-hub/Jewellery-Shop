@@ -34,7 +34,7 @@ This project handles products and shopping cart functionality.
 * `PATCH /cart/:id` → Update quantity
 * `DELETE /cart/:id` → Remove item
 
-## 👩‍💻 Author
+ Author
 Qurrat-ul-Ain Hasnain
 
 Your Name
