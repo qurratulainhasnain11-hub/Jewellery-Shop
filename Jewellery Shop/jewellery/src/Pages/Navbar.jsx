@@ -9,7 +9,7 @@ function Navbar() {
       {/* Logo */}
       <div className="logo">Jewellery Shop</div>
 
-      {/* Navigation Links */}
+    
       <ul className="nav-links">
         <li>
           <NavLink to="/">Home</NavLink>
